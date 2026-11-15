@@ -10,7 +10,7 @@
 
 ## Índice de Prácticas
 
-1. [Procedimientos (CALL y RET)](ruta_a_tu_archivo_1.asm)
+1. [Procedimientos (CALL y RET)](ruta_a_tu_Codigo_1.asm)
 2. [Lectura de cadenas con ReadString](ruta_a_tu_archivo_2.asm)
 3. [Validación de entrada](ruta_a_tu_archivo_3.asm)
 4. [Paso de parámetros por la pila](ruta_a_tu_archivo_4.asm)
